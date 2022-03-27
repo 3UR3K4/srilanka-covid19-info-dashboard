@@ -228,8 +228,7 @@ $euDecode = json_decode($rdJson, true);
 
             <ul class="ul-check mb-5 list-unstyled success">
               <li>HPB - SriLanka</li>
-              <li>Arimac - SriLanka</li>
-              <li>eUNLOCK Solutions</li>
+              <li>Arimac - SriLanka</li>	 
             </ul>
             <p><a href="#" class="btn btn-primary">Learn More</a></p>
           </div>
@@ -408,7 +407,7 @@ $euDecode = json_decode($rdJson, true);
           <div class="col-md-12">
             <p class="mb-0">
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy; All rights reserved | eUNLOCK Solutions | Developed By Eranda Ravinath & Heshan Basnayaka
+            Copyright &copy; All rights reserved | Digitally crafted by Heshan Basnayaka
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
           </div>
